@@ -1,6 +1,6 @@
 # Curso Tópicos de Investigación 
 
-## Página del curso: http://c-lara.github.io/M-L/
+###  Página del curso: http://c-lara.github.io/M-L/
 
 ### Primera asignación 1
 
